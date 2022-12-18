@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "*.tcc": "cpp",
+    "unordered_map": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "random": "cpp",
+    "ostream": "cpp",
+    "iosfwd": "cpp",
+    "chrono": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
